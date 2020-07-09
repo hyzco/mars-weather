@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenshot
+
+  <img src="https://i.imgur.com/V7q80et.jpg"  width="700" height="600" alt="Mars Weather Tracker Github: HYzCo">
 
 ## Available Scripts
 
